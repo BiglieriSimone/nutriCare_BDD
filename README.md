@@ -28,7 +28,7 @@ dati: centralizza le informazioni, riduce ridondanze e errori e migliora l’org
 ---
 
 ## Presentazione del Database implementato su PostgreSQL
-- 📹 [Guarda / Scarica il Video di Presentazione (Google Drive)](https://drive.google.com/file/d/1_okiYUo2djdHwNujKWpsYbYFYFHvvsrx/view?usp=drive_link)
+- 📹 [Guarda / Scarica il Video di Presentazione (Google Drive)] https://docs.google.com/videos/d/1CKsAgYF9xl8ARtp6dlkhTlIjSGd8JddwCoO8b8aOTK8/edit?usp=drive_link
 
 ---
 
