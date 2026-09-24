@@ -27,6 +27,11 @@ dati: centralizza le informazioni, riduce ridondanze e errori e migliora l’org
 
 ---
 
+## Presentazione del Database implementato su PostgreSQL
+- 📹 [Guarda / Scarica il Video di Presentazione (Google Drive)](https://drive.google.com/file/d/1_okiYUo2djdHwNujKWpsYbYFYFHvvsrx/view?usp=drive_link)
+
+---
+
 ## Autori
 **Nome e Cognome:** Simone Biglieri, Massimo Palmisano, Ivano Cavalca
 
